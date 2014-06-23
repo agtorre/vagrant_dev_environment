@@ -1,4 +1,6 @@
-vagrant_dev_environment
+Vagrant Development Environment
 =======================
+A dev environment setup for vagrant.
 
-A dev environment setup for vagrant
+- clone
+- vagrant up
